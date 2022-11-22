@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Watch YesCatch your favorite games live_75ac51</name>
+   <tag></tag>
+   <elementGuidId>064b63a1-4b9d-4a99-846f-6b87a566e4c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#root > div > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d52e3be7-842b-4747-8fef-727e5edb3971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Watch YesCatch your favorite games live on your phone, computer, tablet, or TV.Available to customers on participating TV providers.Step 1 of 2Sign in to YES NetworkSign inRegisterContinue with GoogleContinue with FacebookContinue with AppleEmail *Password *Forgot Password?Sign In</value>
+      <webElementGuid>d4e5579d-09c1-452c-b7f0-d0c00e037add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]</value>
+      <webElementGuid>61c0bbdc-0644-43e1-95d4-25c452d71166</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div</value>
+      <webElementGuid>384a13e2-dd56-4f36-8c04-21d42e9eef37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>32c99b3a-5cd8-43eb-925d-cb11b805a028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Watch YesCatch your favorite games live on your phone, computer, tablet, or TV.Available to customers on participating TV providers.Step 1 of 2Sign in to YES NetworkSign inRegisterContinue with GoogleContinue with FacebookContinue with AppleEmail *Password *Forgot Password?Sign In' or . = 'Watch YesCatch your favorite games live on your phone, computer, tablet, or TV.Available to customers on participating TV providers.Step 1 of 2Sign in to YES NetworkSign inRegisterContinue with GoogleContinue with FacebookContinue with AppleEmail *Password *Forgot Password?Sign In')]</value>
+      <webElementGuid>3a2f1e3d-61b5-4b21-b47c-33463e102642</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
