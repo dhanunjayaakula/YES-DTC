@@ -6,6 +6,7 @@
    <UUID>f6577f10-b2a1-4ed6-804e-5501578dd6aa</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/dhanunja/Katalon Studio/Web Demo/Web Demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
