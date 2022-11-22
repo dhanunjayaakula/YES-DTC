@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>911d19d3-8ae7-4535-9838-2403407e2ceb</webElementGuid>
+      <webElementGuid>6b3797f7-9203-4ea7-b9a3-522f1a34fc13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>b34d5412-84ad-4a66-9658-4dded91d7d6d</webElementGuid>
+      <webElementGuid>a8180f74-ba83-4dbd-b395-f3ce52a326b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>e6c26101-6ed5-4a5c-817f-cc718385cdde</webElementGuid>
+      <webElementGuid>e5229cac-c212-4d59-a386-cd51f2645ca8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter your email.</value>
-      <webElementGuid>a7c8f1f2-de0a-4591-b0ea-136ed25a65ad</webElementGuid>
+      <webElementGuid>896fdc1f-bf04-467f-8428-df6fdaa5e021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control </value>
-      <webElementGuid>be82508d-8fc1-4331-b140-4b3471467141</webElementGuid>
+      <webElementGuid>2468f881-46c7-443b-a8ec-32428b98296a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>d</value>
-      <webElementGuid>7ed97928-16a6-43e0-9fe3-ff1cfe9e1f9c</webElementGuid>
+      <value>dhanunja+demo@clearbridgemobile.com</value>
+      <webElementGuid>513d5570-d306-47ae-823d-ee6ff70e243a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;auth__card&quot;]/div[@class=&quot;auth__card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>0b89e3d2-95b8-4422-94b4-0d0dcd902df9</webElementGuid>
+      <webElementGuid>57e2b689-39a2-45f1-9471-8fd7eedeca83</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='email']</value>
-      <webElementGuid>06dac87c-7d4c-43df-819b-d346bbad6d0c</webElementGuid>
+      <webElementGuid>d7b5ee06-ed2b-472a-a2cf-d6a451c5574c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div[2]/form/div/input</value>
-      <webElementGuid>f21884e6-6e10-4d40-8d21-103e098ae4be</webElementGuid>
+      <webElementGuid>987e5df5-5867-4f2a-b8e6-e5f5aa4a90b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>127d8c0f-485e-4d74-bb48-ff91909723aa</webElementGuid>
+      <webElementGuid>deafd65b-a61d-4213-af0c-dd91d8371fec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'email' and @type = 'email' and @placeholder = 'Enter your email.']</value>
-      <webElementGuid>120af71e-20ac-40ac-aa56-0532750bd727</webElementGuid>
+      <webElementGuid>58291c7b-9b44-4c30-93e1-99a929395eb4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

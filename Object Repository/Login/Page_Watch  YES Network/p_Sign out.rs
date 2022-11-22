@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>a66d743f-aafc-419f-ac37-b07ce1d75492</webElementGuid>
+      <webElementGuid>ed85fc2f-61e6-4fd5-9c97-666528460021</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tglbc-b-db-22 c-pointer mb-0</value>
-      <webElementGuid>5ea792fb-f569-4d44-be55-68ae87193ae6</webElementGuid>
+      <webElementGuid>8a7f8808-fba5-4d96-ac5a-3cdc6caa453c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign out</value>
-      <webElementGuid>572db142-e1ad-4508-9927-5545845086ce</webElementGuid>
+      <webElementGuid>a5a077ac-4b17-4b4c-b61b-ef6812d91be6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;watch-page&quot;]/div[@class=&quot;player-container d-flex flex-column&quot;]/div[@class=&quot;watch-header d-flex align-items-center justify-content-between mb-2&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/p[@class=&quot;tglbc-b-db-22 c-pointer mb-0&quot;]</value>
-      <webElementGuid>b39cd92d-9c87-484d-9494-68ba1166f3b2</webElementGuid>
+      <webElementGuid>536b099c-e6ac-4bdb-9460-f7a5cb3357a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/p</value>
-      <webElementGuid>94a8dbfe-b057-433f-be5a-b473cdde7742</webElementGuid>
+      <webElementGuid>170b57b7-6dfb-4504-9673-f92035dc6b89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='On Now'])[1]/following::p[1]</value>
-      <webElementGuid>c97ec66c-0af1-43bf-8f19-495085e8c0b8</webElementGuid>
+      <webElementGuid>7b9cc52f-738c-4602-8be4-e3d15cfb6b6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Live streaming unavailable'])[1]/preceding::p[1]</value>
-      <webElementGuid>0ffb912a-b174-483e-8949-ba21ce526b62</webElementGuid>
+      <webElementGuid>c9f0e017-9586-4581-8a8d-531d75fa7092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Data available'])[1]/preceding::p[2]</value>
-      <webElementGuid>93b0f5be-0537-4c63-b5c1-c3a1f58b38a7</webElementGuid>
+      <webElementGuid>938fe3fd-3c6b-4221-a2a4-641c8c0271f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign out']/parent::*</value>
-      <webElementGuid>f94dfff5-97b8-4d99-a2c9-addd4e398c46</webElementGuid>
+      <webElementGuid>e286e0da-3c9f-4bca-9406-976ecae0e2a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>d255143f-1d68-4e35-b7af-aa412a6d2059</webElementGuid>
+      <webElementGuid>29839390-c8a9-4f70-908d-6d448389f9dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Sign out' or . = 'Sign out')]</value>
-      <webElementGuid>ff18f32a-e20d-48ed-8bff-b3a02c727e74</webElementGuid>
+      <webElementGuid>a886bd3b-5536-4842-9048-6cfdf62d134c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
