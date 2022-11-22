@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Click Here</name>
+   <name>h3_On Now</name>
    <tag></tag>
-   <elementGuidId>b3633d38-9751-4468-98f8-39fefe732bf5</elementGuidId>
+   <elementGuidId>bdc9bbc2-895d-4b37-b04c-e6a9f5658768</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.link.pts-b-db-14</value>
+         <value>h3.tgd1-b-base-33.float-left</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/div[2]/p[2]/span</value>
+         <value>//div[@id='root']/div/div[2]/div/h3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>54393d55-b565-497b-8559-615cc4cd2c01</webElementGuid>
+      <value>h3</value>
+      <webElementGuid>1c82bf94-3f2a-40cc-a5d6-554c97da2c3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>link pts-b-db-14</value>
-      <webElementGuid>d768cf1d-2b72-4f8f-ba3f-9ce2403faea1</webElementGuid>
+      <value>tgd1-b-base-33 float-left</value>
+      <webElementGuid>48c71bb6-daf3-4029-bab0-486cc6564dd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Click Here</value>
-      <webElementGuid>fc052c9c-b3f4-4971-bf70-6c68c971b75c</webElementGuid>
+      <value>On Now</value>
+      <webElementGuid>8b08dd78-0d80-46f2-afaf-594c0a6cb59b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;yes-card&quot;]/div[@class=&quot;yes-card__body&quot;]/p[@class=&quot;pts-n-db-14 text-center mt-3&quot;]/span[@class=&quot;link pts-b-db-14&quot;]</value>
-      <webElementGuid>4db1b815-2fa7-4077-9fa3-3b6f20af61dc</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;watch-page&quot;]/div[@class=&quot;player-container d-flex flex-column&quot;]/div[@class=&quot;watch-header d-flex align-items-center justify-content-between mb-2&quot;]/h3[@class=&quot;tgd1-b-base-33 float-left&quot;]</value>
+      <webElementGuid>c11b6d36-0213-4170-b4ca-b57d40e6db79</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div[2]/p[2]/span</value>
-      <webElementGuid>cd1df804-57d2-47f3-809d-edbc79d51fa7</webElementGuid>
+      <value>//div[@id='root']/div/div[2]/div/h3</value>
+      <webElementGuid>d0d31e7d-d506-4168-8dd3-0b5d954a30eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select your Television Service Provider'])[1]/following::span[1]</value>
-      <webElementGuid>92752109-f5f9-4899-96f5-c57201a3eb9c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live streaming unavailable'])[1]/preceding::h3[1]</value>
+      <webElementGuid>1d33b9ef-a056-4433-af42-4e4c70eed0d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='TV'])[1]/following::span[1]</value>
-      <webElementGuid>11e012ff-3356-46e3-b805-2ccd04906e76</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Data available'])[1]/preceding::h3[2]</value>
+      <webElementGuid>fbdee064-05e9-47bf-8882-760a38a27686</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Click Here']/parent::*</value>
-      <webElementGuid>e931b083-dac1-492c-b447-e9e834d7f966</webElementGuid>
+      <value>//*/text()[normalize-space(.)='On Now']/parent::*</value>
+      <webElementGuid>f9a99b3d-4744-41ce-938b-58efb27f0d31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//p[2]/span</value>
-      <webElementGuid>97ca8b0e-852f-46f7-b4fb-2a802b674ac3</webElementGuid>
+      <value>//h3</value>
+      <webElementGuid>38372d16-f17e-4a75-9ee7-dba0b04dfba6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Click Here' or . = 'Click Here')]</value>
-      <webElementGuid>f797d653-6ec1-49ce-b2d5-a31043576859</webElementGuid>
+      <value>//h3[(text() = 'On Now' or . = 'On Now')]</value>
+      <webElementGuid>6652f226-abc2-40b7-b102-a4b733e070a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
