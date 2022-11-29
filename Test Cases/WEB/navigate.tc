@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>UI_Validation</name>
+   <name>navigate</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>566f5b6d-60d3-49df-b16c-4d704d4e2b56</testCaseGuid>
+   <testCaseGuid>683b4301-10d2-4d59-b76e-280442f106ed</testCaseGuid>
 </TestCaseEntity>

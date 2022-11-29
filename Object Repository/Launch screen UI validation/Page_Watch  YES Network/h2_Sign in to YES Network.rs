@@ -6,12 +6,12 @@
    <elementGuidId>da9de994-982a-4560-9a30-548d30d85150</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>h2.pts-b-db-30.mb-4</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[2]/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.pts-b-db-30.mb-4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>be85dd73-0837-4b33-8af6-e3b50e564d0f</webElementGuid>
+      <webElementGuid>cca5fefb-6422-403f-a4e8-eb48d6fad42f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pts-b-db-30 mb-4</value>
-      <webElementGuid>79c6de46-ba58-4137-841a-1c5fe66a9375</webElementGuid>
+      <webElementGuid>c8353bc9-a54c-4680-8273-2b19e91e0482</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in to YES Network</value>
-      <webElementGuid>75b4b69b-7830-4bac-9b69-980adfbb61a8</webElementGuid>
+      <webElementGuid>33d5faa5-043c-4529-bfe0-066dc44b3a19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[1]/div[@class=&quot;auth__card&quot;]/div[@class=&quot;auth__card-header&quot;]/h2[@class=&quot;pts-b-db-30 mb-4&quot;]</value>
-      <webElementGuid>d64a4fe9-3fce-4f0e-ae1e-31d633131b11</webElementGuid>
+      <webElementGuid>fee06ee2-5eb5-4f0d-8faf-3647ba989c60</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div[2]/div/h2</value>
-      <webElementGuid>138394b2-8632-40ac-b42e-c1f54b946c89</webElementGuid>
+      <webElementGuid>6868e8ed-88d5-458c-ae9d-7b4697bcf998</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TV'])[1]/following::h2[1]</value>
-      <webElementGuid>7bd52254-577a-46cc-b631-0d93f3722fea</webElementGuid>
+      <webElementGuid>ee2c6f88-608a-4d3f-af18-b0481ec6a6b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='tablet'])[1]/following::h2[1]</value>
-      <webElementGuid>1066554b-65ac-4f65-b4c4-85f292233441</webElementGuid>
+      <webElementGuid>9da5dbcc-1463-4a5e-b80e-d906e74ddd12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::h2[1]</value>
-      <webElementGuid>33bc4a2c-274c-429a-a395-7a4daf8b8e42</webElementGuid>
+      <webElementGuid>feab30b4-8d55-4074-9299-fbe3aa275b24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::h2[1]</value>
-      <webElementGuid>8263a077-bee8-41ad-991c-a371243ee79d</webElementGuid>
+      <webElementGuid>aad1952d-7883-4837-ae0c-5ff12e6f8750</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign in to YES Network']/parent::*</value>
-      <webElementGuid>76e32c4f-d841-45fc-ae97-ba23b7eb1657</webElementGuid>
+      <webElementGuid>cfbb73ec-163b-49e1-aa55-9561d223e7c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/h2</value>
-      <webElementGuid>3b92c2d4-e9c0-4fad-8179-ac6ffa5446b2</webElementGuid>
+      <webElementGuid>11def55f-e9bf-493a-9269-4bc0e29117da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[(text() = 'Sign in to YES Network' or . = 'Sign in to YES Network')]</value>
-      <webElementGuid>7cfb96a2-8dcc-45a8-a985-056938fda836</webElementGuid>
+      <webElementGuid>87280387-bfcc-4d57-b5c9-199cb3f5157c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
