@@ -17,21 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://watchyesnetwork.com/')
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_Watch  YES Network/input__email'), 'dhanunja+demo@clearbridgemobile.com')
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Watch  YES Network/div_Continue with GoogleContinue with Faceb_6932f6'))
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_Watch  YES Network/input__password_1'), 'Amdocs@2021')
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Watch  YES Network/button_Sign In'))
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Watch  YES Network/span_Click Here'))
-
-WebUI.click(findTestObject('Object Repository/Login/Page_Watch  YES Network/p_Sign out'))
-
-WebUI.closeBrowser()
-
