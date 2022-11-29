@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://staging.watchyesnetwork.com/')
+WebUI.navigateToUrl('https://watchyesnetwork.com/')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Launch screen UI validation/Page_Watch  YES Network/h2_Sign in to YES Network'), 
     0)

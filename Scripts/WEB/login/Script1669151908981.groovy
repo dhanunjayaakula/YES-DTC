@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://staging.watchyesnetwork.com/')
+WebUI.navigateToUrl('https://watchyesnetwork.com/')
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_Watch  YES Network/input__email'), 'dhanunja+demo@clearbridgemobile.com')
 
