@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>navigate</name>
+   <name>verify</name>
    <tag></tag>
    <comment></comment>
-
-   <testCaseGuid>a9d68766-36e9-4117-b41c-797c22bf6b8f</testCaseGuid>
+   <testCaseGuid>ce4bd635-b545-41ae-a096-182af3ff6716</testCaseGuid>
 </TestCaseEntity>
