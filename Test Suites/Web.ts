@@ -12,17 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>23aa9338-6361-4e94-a0d4-659d29e84d46</testSuiteGuid>
    <testCaseLink>
-      <guid>00e392dd-7537-4668-b31d-b87c2730bc1d</guid>
+      <guid>864b1a41-d9fb-4633-af8e-122ef7b1609b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/UI_Validation</testCaseId>
+      <testCaseId>Test Cases/WEB/navigate</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e0885dcc-ea5f-46f9-a373-3faf1481d49d</guid>
+      <guid>612e4700-ac64-4590-a741-513a02360d7f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/WEB/login</testCaseId>
+      <testCaseId>Test Cases/WEB/Validate</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
