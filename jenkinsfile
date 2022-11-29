@@ -1,29 +1,26 @@
 pipeline {
-    agent any
-
+    agent any 
     stages {
         stage('Build') {
             steps {
-                echo 'Hello Build'
+                echo 'Build'
+               // git branch: 'master', url: 'https://github.com/dhanunjayaakula/YES-DTC.git'
             }
         }
-        
-         stage('Deploy') {
+
+        stage('Test') {
             steps {
-                echo 'Hello Deploy'
+                dir('/var/lib/jenkins/workspace/1_Jenkinsdemo'){
+ sh 'docker run -t --rm -v "$(pwd)":/tmp/project katalonstudio/katalon katalonc.sh -projectPath=/tmp/project -retry=0 -testSuitePath="Test Suites/Web" -browserType="Chrome" -executionProfile="default" -apiKey="73b33733-c508-44f1-8f08-3a9874113e7b" --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true'
+                }
             }
         }
-        
-         stage('Test') {
-            steps {
-                echo 'Hello Test'
-            }
-        }
-        
-         stage('Release') {
-            steps {
-                echo 'Hello Release'
-            }
+    }
+
+    post {
+        always {
+            archiveArtifacts artifacts: 'Reports/**/*.*', fingerprint: true 
+            junit 'Reports/*/Suite1/*/*.xml'
         }
     }
 }
